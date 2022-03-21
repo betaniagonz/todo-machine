@@ -1,0 +1,15 @@
+.NotTodos{
+    position: absolute;
+    top: 50%;
+    background-image: url('./relax.png');
+    width: 350px;
+    height: 20%;
+    background-repeat: no-repeat;
+    left: -5px;
+}
+
+h3{
+    position: absolute;
+    top: 40%;
+    left: 21%;
+}

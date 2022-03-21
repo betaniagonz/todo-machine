@@ -1,11 +1,11 @@
 .TodoSearch {
     background: #F9FBFC;
-    border-radius: 2px;
-    border: 2px solid #202329;
-    margin: 0 24px;
-    height: 64px;
+    border-radius: 45px;
+    border: 1.5px solid #808080;
+    margin: 40px 0px 24px 24px;
+    height: 35px;
     width: calc(100% - 62px);
-    font-size: 24px;
+    font-size: 18px;
     text-align: center;
     font-family: 'Montserrat';
     font-weight: 400;
@@ -20,6 +20,6 @@
   }
   
   .TodoSearch:focus {
-    outline-color: #61DAFA;
+    outline-color: #F2CDCD;
   }
   

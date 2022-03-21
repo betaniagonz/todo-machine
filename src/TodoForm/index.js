@@ -26,7 +26,7 @@ function TodoForm(){
             <textarea 
             value = {newTodoValue}
             onChange = {onChange}
-            placeholder="Cortar la cebolla para el almuerzo.."/>
+            placeholder="Tengo que hacer esto..."/>
             <div className="TodoForm-buttonContainer">
                 <button 
                 type="button" 

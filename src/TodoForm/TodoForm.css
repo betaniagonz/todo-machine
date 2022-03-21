@@ -1,24 +1,25 @@
 form {
-    width: 90%;
-    max-width: 300px;
-    background-color: #fff;
+    /* width: 80%; */
+    max-width: 90%;
+    background-color: #9DB9F2;
     padding: 33px 40px;
     display: flex;
     align-content: center;
     flex-direction: column;
+    border-radius: 20px;
   }
   
   label {
     text-align: center;
     font-weight: bold;
     font-size: #1E1E1F;
-    margin-bottom: 26px;
+    margin-bottom: 15px;
   }
   
   textarea {
     background-color: #F9FBFC;
     border: 2px, solid #202329;
-    border-radius: 2px;
+    border-radius: 10px;
     box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.25);
     color: #1E1E1F;
     font-size: 20px;
@@ -29,13 +30,13 @@ form {
   }
   
   textarea::placeholder {
-  color: #a5a5a5;
+  color: #b3b3b3;
   font-family: 'Montserrat';
-  font-weight: 400;
+  font-weight: 600;
   }
   
   textarea:focus {
-    outline-color: #61DAFA;
+    outline-color: #F2CDCD;
   }
   
   .TodoForm-buttonContainer {
@@ -50,17 +51,17 @@ form {
     cursor: pointer;
     display: inline-block;
     font-size: 20px;
-    color: #202329;
+    color: #121313;
     font-weight: 400;
-    width: 120px;
+    width: 100px;
     height: 48px;
-    border-radius: 2px;
+    border-radius: 10px;
     border: none;
     font-family: 'Montserrat';
   }
   
   .TodoForm-button-add {
-    background-color: #61DAFA;
+    background-color: #F2CDCD;
     box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
   }
   

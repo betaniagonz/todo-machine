@@ -1,8 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #F2F4F5;
-    color: #1E1E1F;
+    background-image: radial-gradient(circle at 50% -0.91%, #7ed2f9 0, #87d0fc 4.17%, #91ceff 8.33%, #9ccbff 12.5%, #a7c9ff 16.67%, #b2c6ff 20.83%, #bdc4fd 25%, #c8c1fa 29.17%, #d2bef6 33.33%, #dbbbf1 37.5%, #e4b9ec 41.67%, #ebb7e5 45.83%, #f2b5de 50%, #f7b4d7 54.17%, #fcb3cf 58.33%, #ffb2c7 62.5%, #ffb2bf 66.67%, #ffb2b7 70.83%, #ffb3b0 75%, #ffb5a9 79.17%, #fdb7a2 83.33%, #fab99c 87.5%, #f5bb97 91.67%, #f0bd93 95.83%, #eac090 100%);    color: #1E1E1F;
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   }
   

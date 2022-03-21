@@ -26,8 +26,8 @@ function AppUi() {
 
     return (
         <React.Fragment>
-        <TodoCounter />
         <TodoSearch/>
+        <TodoCounter />
             <TodoList>
             {loading && <TodosLoading />}
             {error && <TodosError error={error}/>}
